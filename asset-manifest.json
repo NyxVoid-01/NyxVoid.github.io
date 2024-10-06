@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ecdcb318.css",
-    "main.js": "/static/js/main.0519a1ec.js",
-    "static/js/453.ff997abb.chunk.js": "/static/js/453.ff997abb.chunk.js",
-    "index.html": "/index.html",
-    "main.ecdcb318.css.map": "/static/css/main.ecdcb318.css.map",
-    "main.0519a1ec.js.map": "/static/js/main.0519a1ec.js.map",
-    "453.ff997abb.chunk.js.map": "/static/js/453.ff997abb.chunk.js.map"
+    "main.css": "/NyxVoid-01/NyxVoid.github.io.git/static/css/main.ecdcb318.css",
+    "main.js": "/NyxVoid-01/NyxVoid.github.io.git/static/js/main.7851dc99.js",
+    "static/js/453.ff997abb.chunk.js": "/NyxVoid-01/NyxVoid.github.io.git/static/js/453.ff997abb.chunk.js",
+    "index.html": "/NyxVoid-01/NyxVoid.github.io.git/index.html",
+    "main.ecdcb318.css.map": "/NyxVoid-01/NyxVoid.github.io.git/static/css/main.ecdcb318.css.map",
+    "main.7851dc99.js.map": "/NyxVoid-01/NyxVoid.github.io.git/static/js/main.7851dc99.js.map",
+    "453.ff997abb.chunk.js.map": "/NyxVoid-01/NyxVoid.github.io.git/static/js/453.ff997abb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecdcb318.css",
-    "static/js/main.0519a1ec.js"
+    "static/js/main.7851dc99.js"
   ]
 }
